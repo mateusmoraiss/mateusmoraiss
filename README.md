@@ -13,7 +13,7 @@ const MateusMorais = {
   age: 23,
   dateOfBirth: "2000-05-28",
   location: "Santa Maria - DF",
-  education: "Systems Analysis and Development Technologist (in progress) at UDF",
+  education: "Former college student turned Passionate Self-Taught Enthusiast in Technology and Innovation, dedicated to crafting practical, functional, and innovative solutions.",
   skills: ["Programming Logic", "C", "JavaScript", "HTML", "CSS", "SQL", "Python", "PHP"],
   languages: {
     portuguese: "Native",
