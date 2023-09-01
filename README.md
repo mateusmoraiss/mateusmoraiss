@@ -30,7 +30,7 @@ console.log("Hello, I'm", MateusMorais.name + "!");
 console.log("I was born on", MateusMorais.dateOfBirth + ",", "and I am", MateusMorais.age, "years old.");
 console.log("I currently reside in", MateusMorais.location + ".");
 
-console.log("I'm pursuing a", MateusMorais.education + ".");
+console.log("I'm a", MateusMorais.education + ".");
 console.log("Here are some of my skills:");
 
 for (let i = 0; i < MateusMorais.skills.length; i++) {
