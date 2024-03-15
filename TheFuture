@@ -1,0 +1,22 @@
+if (Used_Artificial_Intelligence === true) {
+    var Approximate_Level_Used = "30";
+    var How_Used = "I used it to refine my texts and to create the effect in the beginning.";
+
+    if (Used_Previous_Template === false) {
+        var Credit = "All about it, and credit to the author";
+    } else {
+        var Credit = "100% original";
+    }
+}
+
+
+if (Usei_Inteligencia_Artificial === true) {
+    var Nivel_Aproximado_Usado = "30%";
+    var Como_Usei = "Usei para refinar meus textos e para criar o efeito no começo";
+
+    if (Usei_Template_Previo === false) {
+        var Credito = "Tudo sobre isso e crédito para o autor";
+    } else {
+        var Credito = "100% autoral";
+    }
+}
