@@ -66,7 +66,7 @@ if (Used_Artificial_Intelligence === true) {
 
 ```
 And yes, I did it in JavaScript so that only real developers have the ability to judge because there are a lot of people out there who can't even do a 'Hello World' and still want to give their opinions, lol. 🙃🙂
-<p>I invite you to check out my [portfólio](https://portfolio-mateusmorais.netlify.app) as some projects will be kept private here for personal reasons.</p>
+<p>I invite you to check out my portfólio: https://portfolio-mateusmorais.netlify.app as some projects will be kept private here for personal reasons.</p>
 Thank you for visiting, and I hope you find my projects insightful and inspiring!
 ---
 
@@ -93,7 +93,7 @@ if (Usei_Inteligencia_Artificial === true) {
 
 ```
 E sim, fiz em JavaScript para apenas desenvolvedores de verdade terem a capacidade de julgar, pois há muita gente por aí que não sabe nem fazer um 'Hello World' e quer opinar rsrs. 🙃🙂
-<p>Te convido a conhecer meu [portfólio](https://portfolio-mateusmorais.netlify.app) pois alguns projetos estarão privados aqui por motivos pessoais.</p>
+<p>Te convido a conhecer meu Portfólio https://portfolio-mateusmorais.netlify.app pois alguns projetos estarão privados aqui por motivos pessoais.</p>
 
 Obrigado por sua visita, e espero que meus projetos sejam informativos e inspiradores!
                                                                                                 
