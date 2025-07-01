@@ -26,7 +26,7 @@ Ele simplifica o controle financeiro calculando o lucro bruto diário (ganhos me
 
 **🎯 Qual Problema o Gross-Track Resolve?**
 
-Muitos profissionais de app enfrentam desafios para entender a lucratividade real diária, controlar gastos com combustível e gerenciar custos gerais. O Gross-Track oferece uma solução simples para o cálculo do lucro bruto e o gerenciamento financeiro, permitindo tomadas de decisão mais informadas.
+Muitos profissionais de app enfrentam desafios para entender a lucratividade real diária, controlar gastos com combustível e gerenciar custos gerais. O Gross-Track oferece uma solução simples para o cálculo do lucro bruto e o gerenciamento financeiro, permitindo um controle melhor de seus gastos/metas para tomadas de decisão mais informadas.
 
 **Conheça o Gross-Track:**
 *   **Acesse o App:** [gross-track.netlify.app](https://gross-track.netlify.app/)
