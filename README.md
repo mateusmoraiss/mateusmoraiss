@@ -1,22 +1,31 @@
-<h1 align="center">
-  ✨ Portfólio de Mateus Morais ✨
-</h1>
+# Olá, eu sou o Mateus Morais 👋
 
-<p align="center">
-  <a href="https://portfolio-mateusmorais.netlify.app" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36FF7B&center=true&vCenter=true&width=460&lines=👉+Clique+para+ver+meu+Portfólio" alt="Typing SVG" />
-  </a>
-</p>
+[![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20Online-brightgreen?style=for-the-badge&logo=netlify)](https://portfolio-mateusmorais.netlify.app)
 
----
+Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Tenho focado em desenvolver projetos práticos e intuitivos, com ênfase em tecnologias web modernas.
 
-<h2 align="center">📊 Gross-Track (análise de lucro Uber)</h2>
+## 🚀 Principal Projeto em Destaque: Gross-Track
 
-<p align="center">
-  <a href="https://gross-track.netlify.app" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7D747&center=true&vCenter=true&width=460&lines=🚗+Veja+o+Gross-Track+em+ação" alt="Gross Track link" />
-  </a>
-</p>
+O **Gross-Track** é um aplicativo web focado em ajudar motoristas e entregadores de aplicativos a otimizar sua lucratividade.
+![Demonstração do Gross-Track](https://github.com/mateusmoraiss/mateusmoraiss/blob/main/gross-track-gif.gif?raw=true)
 
----
+Ele simplifica o controle financeiro calculando o lucro bruto diário (ganhos menos combustível) e ajudando a gerenciar outros custos para definir metas realistas.
 
+**✨ Funcionalidades Chave:**
+*   Cálculo rápido de lucro bruto diário.
+*   Gestão detalhada de custos.
+*   Relatórios de desempenho.
+*   Monitoramento de manutenção veicular.
+
+**Conheça o Gross-Track:**
+*   **Acesse o App:** [gross-track.netlify.app](https://gross-track.netlify.app/)
+*   **Veja o Código:** [TrilogyThree/gross-track-vite](https://github.com/TrilogyThree/gross-track-vite)
+
+## 💻 Tecnologias Favoritas
+
+Aqui estão algumas das tecnologias e ferramentas com as quais mais gosto de trabalhar:
+
+*   **Frontend:** React, JavaScript (ES6+), Vite, HTML5, CSS3, Chakra UI, Bulma
+*   **Backend & Database:** Firebase (Firestore, Authentication)
+*   **Ferramentas:** Git, GitHub, VS Code, Cursor
+*   **Outras:** Node.js
