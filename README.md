@@ -10,7 +10,7 @@ O **Gross-Track** é um aplicativo web focado em ajudar motoristas e entregadore
 <br>
 <div align="center">
 
-![Demonstração do Gross-Track](https://github.com/mateusmoraiss/mateusmoraiss/blob/main/gross-track-gif.gif?raw=true)
+[![Demonstração do Gross-Track](https://github.com/mateusmoraiss/mateusmoraiss/blob/main/gross-track-gif.gif?raw=true)](https://gross-track.netlify.app/)
 
 </div>
 
