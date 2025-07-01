@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Tenho focado em desenvolver projetos práticos e intuitivos, com ênfase em tecnologias web modernas.
 
-## 🚀 Principal Projeto em Destaque: Gross-Track
+## 🚀 Principal Projeto: Gross-Track
 
 O **Gross-Track** é um aplicativo focado em ajudar motoristas e entregadores de aplicativos a otimizar sua lucratividade.
 <br>
