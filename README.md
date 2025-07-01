@@ -2,7 +2,7 @@
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-Ver%20Online-brightgreen?style=for-the-badge&logo=netlify)](https://portfolio-mateusmorais.netlify.app)
 
-Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Tenho focado em desenvolver projetos práticos e intuitivos, com ênfase em tecnologias web modernas.
+Sou um desenvolvedor apaixonado por criar soluções práticas, funcionais e inovadoras utilizando tecnologia para resolver problemas reais.
 
 ## 🚀 Principal Projeto: Gross-Track
 
