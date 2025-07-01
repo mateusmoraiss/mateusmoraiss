@@ -8,7 +8,11 @@ Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pe
 
 O **Gross-Track** é um aplicativo web focado em ajudar motoristas e entregadores de aplicativos a otimizar sua lucratividade.
 <br>
+<div align="center">
+
 ![Demonstração do Gross-Track](https://github.com/mateusmoraiss/mateusmoraiss/blob/main/gross-track-gif.gif?raw=true)
+
+</div>
 
 Ele simplifica o controle financeiro calculando o lucro bruto diário (ganhos menos combustível) e ajudando a gerenciar outros custos para definir metas realistas.
 
