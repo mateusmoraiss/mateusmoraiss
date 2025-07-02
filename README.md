@@ -14,7 +14,7 @@ O **Gross-Track** é um aplicativo focado em ajudar motoristas e entregadores de
 
 </div>
 
-Ele simplifica o controle financeiro calculando o lucro bruto diário (ganhos menos combustível) e ajudando a gerenciar outros custos para definir metas realistas.
+Ele simplifica o controle financeiro calculando o lucro bruto diário (ganhos menos combustível) ajudando a gerenciar outros custos para definir metas realistas.
 
 **✨ Funcionalidades Chave:**
 *   Cálculo rápido de lucro bruto diário.
